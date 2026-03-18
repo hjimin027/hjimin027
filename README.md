@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- 어바웃 미, 코테(Solved, 백준 등), 테크 스택, 프로젝트, 컨택 -->
