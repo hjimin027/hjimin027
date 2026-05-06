@@ -37,4 +37,4 @@
 ## 📸 Result
 페이지 이미지
 
-## 📜 License
+## ⚖️ License
